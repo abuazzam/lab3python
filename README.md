@@ -14,3 +14,5 @@ if (num > 0):
 ```
 
 ini codenya.
+
+![gambar 1](gambar/gambar_1.png)
